@@ -9,6 +9,28 @@ description: Light Limit Changer v2.0.0の基本的な使い方、初回生成�
 
 ----
 
+## Light Limit Changerのインストール～導入まで
+
+### VCCへの登録
+
+VCC（VRChat Creator Companion）からインストールを行います。
+
+LLC V2のVCCへの登録は、Boothのダウンロードページからダウンロードしたリンクを使用して行ってください。
+
+:::caution
+
+このWebリンクは購入者にのみ提供しているものですので、未購入者へ教える行為・譲渡・Webへの掲載等、第三者へ公開する行為は規約違反となりますので、おやめください。
+ダウンロードしたリンクを誤って公開してしまった場合、販売物の流出に繋がりますのでご注意ください。
+特に、VCC/ALCOMのログの写真に映り込む・ログに記載される場合が多いため、ご共有の際には細心の注意をお願いいたします。
+
+:::
+
+VCCに登録後、導入したいプロジェクトの **Manage Packages** を開き、**Light Limit Changer** の ＋ボタンをクリックしてインストールしてください。
+
+![Vcc](/img/docs/intro/vcc_1.png)
+
+----
+
 ### アバターへのLight Limit Changerの導入
 
 導入したいアバターを右クリック → Light Limit Changer → Setup を押します。  
