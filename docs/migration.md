@@ -116,9 +116,8 @@ V1 はサポートを終了しており、新機能追加・不具合修正は�
 
 ### 1. VCC に V2 リポジトリ*を登録する
 
-VCC（VRChat Creator Companion）を開き、**Settings → Packages** の項目から "Azukimochi" のリポジトリにチェックが入っているか確認してください。
-
-チェックが入っていない場合は、[V2 チュートリアル](/docs/v2/tutorial/howtouse-basic) のVCC登録手順を参照してリポジトリURLを登録してください。
+V2に同梱されている説明書、または[V2 チュートリアル](/docs/v2/tutorial/howtouse-basic) のVCC登録手順を参照してV2のリポジトリURLを登録してください。
+また、V1で使用していた"Azukimochi"リポジトリのチェックを外してください。
 
 <details>
     <summary> *用語解説 </summary>
