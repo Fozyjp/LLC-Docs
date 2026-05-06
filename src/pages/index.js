@@ -26,6 +26,11 @@ function HomepageHeader() {
             to="https://booth.pm/ja/items/4864776">
             有償 v2版(BOOTH)
           </Link>
+          <Link 
+            className={`button button--secondary button--lg ${styles.button}`}
+            to="/docs/migration">
+            V2への移行について
+          </Link>
           <Link
             className={`button button--secondary button--lg ${styles.button}`}
             to="/docs/intro">
