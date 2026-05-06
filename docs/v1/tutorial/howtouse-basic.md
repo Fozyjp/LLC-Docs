@@ -10,6 +10,16 @@ description: Light Limit Changerの基本的な使い方、初回生成から設
 ----
 ## Light Limit Changerのインストール～導入まで
 
+### Modular Avatarの導入
+
+LightLimitChangerの使用には、前提としてModular Avatarの導入が必要です。
+もし未導入の際には必ず先に導入してください。
+導入されている場合、このセクションは飛ばしてください。
+
+以下のリンクから入手することができます。
+Modular Avatar：
+https://modular-avatar.nadena.dev/ja
+
 ### VCCへの登録
 VCC:VRChat Creater Companionから導入を行います。  
 :::info
